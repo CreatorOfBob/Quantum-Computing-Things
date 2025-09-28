@@ -1,4 +1,4 @@
-# Quantum-Information-Science
+# Quantum Computing Things
 Basic programs relating to quantum information science topics
 ## CHSH Game
 Implements both the classical and quantum versions
